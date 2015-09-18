@@ -1,6 +1,7 @@
 <!-- Buttons -->
 <!ENTITY scuttle.button.my  "My Scuttle">
 <!ENTITY scuttle.button.add "Scuttle This Page...">
+<!ENTITY scuttle.button.multiadd "Scuttle All Pages...">
 
 <!-- Context Menu -->
 <!ENTITY scuttle.context.link   "Scuttle This Link...">

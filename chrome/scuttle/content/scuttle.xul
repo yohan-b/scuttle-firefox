@@ -18,6 +18,11 @@
             label="&scuttle.button.add;"
             tooltiptext="&scuttle.button.add;"
             oncommand="scuttle_add();"/>
+        <toolbarbutton id="scuttle-button-multiadd"
+            class="toolbarbutton-1 chromeclass-toolbar-additional"
+            label="&scuttle.button.multiadd;"
+            tooltiptext="&scuttle.button.multiadd;"
+            oncommand="scuttle_multiadd();"/>
     </toolbarpalette>
     <popup id="contentAreaContextMenu" onpopupshown="scuttle_menu()">
         <menuitem id="scuttle-context-page"

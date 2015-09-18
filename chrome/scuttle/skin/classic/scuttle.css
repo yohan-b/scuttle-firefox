@@ -35,6 +35,19 @@ toolbar[iconsize="small"] #scuttle-button-my[disabled="true"] {
     -moz-image-region: rect(48px 24px 72px 0px) !important;
 }
 
+/* Scuttle All Pages... */
+
+#scuttle-button-multiadd {
+    list-style-image: url("chrome://scuttle/skin/scuttle-button-add.png"); 
+    -moz-image-region: rect(0px 24px 24px 0px);  
+}
+#scuttle-button-multiadd:hover {
+    -moz-image-region: rect(24px 24px 48px 0px);
+}
+#scuttle-button-multiadd[disabled="true"] {
+    -moz-image-region: rect(48px 24px 72px 0px) !important;
+}
+
 toolbar[iconsize="small"] #scuttle-button-add {
     list-style-image: url("chrome://scuttle/skin/scuttle-button-add-small.png");
     -moz-image-region: rect(0px 16px 16px 0px);

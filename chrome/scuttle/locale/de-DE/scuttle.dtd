@@ -1,0 +1,19 @@
+<!-- Buttons -->
+<!ENTITY scuttle.button.my  "Mein Scuttle">
+<!ENTITY scuttle.button.add "Scuttle diese Seite...">
+<!ENTITY scuttle.button.multiadd "Scuttle diese Seite...">
+
+<!-- Context Menu -->
+<!ENTITY scuttle.context.link   "Scuttle diesen Link...">
+
+<!-- Options -->
+<!ENTITY scuttle.options.title          "Scuttle Optionen">
+
+<!ENTITY scuttle.options.url.label      "Adresse:">
+<!ENTITY scuttle.options.url.tooltip    "Adresse deiner Scuttle Installation">
+
+<!ENTITY scuttle.options.width.label    "Breite:">
+<!ENTITY scuttle.options.width.tooltip  "Breite des Popup Fensters">
+
+<!ENTITY scuttle.options.height.label   "Höhe:">
+<!ENTITY scuttle.options.height.tooltip "Höhe des Popup Fensters">
